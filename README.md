@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github repo](https://github.com/Samiuddinkhan07/static-job-listings-master)
+- Live Site URL: [Live Url](https://jobpedia.netlify.app/)
 
 ## My process
 
